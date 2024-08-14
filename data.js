@@ -88,13 +88,13 @@ const progressData = [
     //     ]
     // },
 
-    // {
-    //     date: '2024-08-15',
-    //     tasks: [
-    //         { task: 'Task 1', status: 'Completed', notes: 'This is a note for task 1.' },
-    //         { task: 'Task 2', status: 'In Progress', notes: 'This is a note for task 2.' }
-    //     ]
-    // },
+    {
+        date: '2024-08-15',
+        tasks: [
+            { task: 'Task 1', status: 'Completed', notes: 'This is a note for task 1.' },
+            { task: 'Task 2', status: 'In Progress', notes: 'This is a note for task 2.' }
+        ]
+    },
     {
         date: '2024-08-14',
         tasks: [
