@@ -26,7 +26,7 @@ function addProgressBox(date, tasks) {
 
     const thead = document.createElement('thead');
     const headerRow = document.createElement('tr');
-    ['Task', 'Status', 'Notes'].forEach(text => {
+    ['Task', 'Status'].forEach(text => {
         const th = document.createElement('th');
         th.textContent = text;
         headerRow.appendChild(th);
