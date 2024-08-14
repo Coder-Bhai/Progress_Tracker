@@ -98,7 +98,7 @@ const progressData = [
     {
         date: '2024-08-14',
         tasks: [
-            { task: 'Making Weekly Plan', status: 'In Progress', notes: '' }
+            { task: 'Making Weekly Plan', status: 'In Progress', notes: '-' }
         ]
     }
 ];
