@@ -91,15 +91,11 @@ const progressData = [
     {
         date: '2024-08-15',
         tasks: [
-            { task: 'Python L1', status: 'Upcoming'},
-            { task: 'Python L2', status: 'Upcoming'},
-            { task: 'Python L3', status: 'Upcoming'},
-            { task: 'Python L4', status: 'Upcoming'},
-            { task: 'Python L5', status: 'Upcoming'},
-            { task: 'Python L6', status: 'Upcoming'},
-            { task: 'Python L7', status: 'Upcoming'},
-            { task: 'Python L8', status: 'Upcoming'},
-            { task: 'Python L9', status: 'Upcoming'},
+            { task: 'Python: Instoduction I/O + Variable', status: 'Completed'},
+            { task: 'Python: Data Types', status: 'Completed'},
+            { task: 'Python: Operators', status: 'Completed'},
+            { task: 'Python: Conditions', status: 'Completed'},
+            { task: 'Python: Loops', status: 'Completed'},
         ]
     },
     {
