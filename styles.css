@@ -60,7 +60,6 @@ main {
     width: 100%;
     border-collapse: collapse;
     margin-top: 10px;
-    font-size: larger;
 }
 
 .progress-table th, .progress-table td {
