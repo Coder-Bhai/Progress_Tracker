@@ -92,14 +92,20 @@ const progressData = [
         date: '2024-08-15',
         tasks: [
             { task: 'Python L1', status: 'Upcoming'},
-            { task: 'DBMS Week 1', status: 'Upcoming'},
-            { task: 'P&S', status: 'Upcoming'}
+            { task: 'Python L2', status: 'Upcoming'},
+            { task: 'Python L3', status: 'Upcoming'},
+            { task: 'Python L4', status: 'Upcoming'},
+            { task: 'Python L5', status: 'Upcoming'},
+            { task: 'Python L6', status: 'Upcoming'},
+            { task: 'Python L7', status: 'Upcoming'},
+            { task: 'Python L8', status: 'Upcoming'},
+            { task: 'Python L9', status: 'Upcoming'},
         ]
     },
     {
         date: '2024-08-14',
         tasks: [
-            { task: 'Making Weekly Plan', status: 'In Progress'}
+            { task: 'Making Weekly Plan', status: 'Completed'}
         ]
     }
 ];
